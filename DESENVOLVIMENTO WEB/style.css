@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    font-size: 62.5%;
+}
+
+body{
+    background-color: lightblue;
+}
+
+h1{
+    padding: 5rem;
+    text-align: center;
+    color: beige;
+    font-size: 3rem;
+    background-color: rgb(92, 8, 172);
+}
+
+main{
+    padding: 5rem;
+}
+
+section{
+    padding: 3rem;
+}
+
+div{
+    width: 20rem;
+    height: 10rem;
+    border-radius: 2rem;
+    padding: 2rem;
+}
+
+a{
+    color: beige;
+    font-size: 2.5rem;
+    text-decoration: none;
+    
+}
+.cont-1{
+    background-color:mediumblue;
+}
+
+.cont-2{
+    background-color: blue;
+}
+
+.cont-3{
+    background-color: blueviolet;
+}
+
+.cont-4{
+    background-color: darkorchid;
+}
+
+.cont-5{
+    background-color:darkmagenta;
+}
+
+footer{
+    text-align: center;
+    padding: 5rem;
+}
+
+button{
+    border: none;
+    border-radius: 1rem;
+    width: 40rem;
+    padding: 2rem;
+    background-color: midnightblue;
+}
